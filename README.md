@@ -36,6 +36,12 @@ never drift.
 > contact.
 
 
+## Screenshots
+
+Today, Sleep and Trends tabs of the iOS app (simulator, sample data).
+
+![OpenWhoop: Today, Sleep and Trends screens](docs/screenshots/app.png)
+
 ## Architecture
 
 ```mermaid
